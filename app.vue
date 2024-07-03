@@ -8,6 +8,7 @@
   <div>
     <NuxtLayout>
       <NuxtPage />
+      <!-- <Content /> -->
     </NuxtLayout>
   </div>
 </template>
